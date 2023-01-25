@@ -39,7 +39,7 @@ The dataset is in long format, with each row representing a measure.
 - `practice_setting` describes the participant's primary practice setting.
 - `research_engagement_scale` is a count variable of the number of ways that physicians engaged with clinical research. If we have responses at multiple timepoints, we take the average of the two.
 - `evidence_skepticism_scale` is an composite of three items assessing (physicians') skepticism of published scientific research.
-- `exp_condition`
+- `exp_condition` indicates the name of the drug shown to participants in the evidence evaluation experiment. 
 
 ### Coarsening for privacy
 
