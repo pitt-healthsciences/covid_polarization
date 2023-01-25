@@ -2,7 +2,7 @@ This page contains data and materials for The political polarization of COVID-19
 
 ## Codebook and data description
 
-The dataset is in long format, with each row representing a measure. The meaning of each variable value is reported in the supplement.
+The dataset is in long format, with each row representing a measure. 
 
 ### Variables
 
