@@ -1,4 +1,4 @@
-This page contains data and materials for *The political polarization of COVID-19 treatments among physicians and laypeople in the United States*. The data files are unaltered exports of the survey instruments that we administered to our participants. 
+This page contains data and materials for *The political polarization of COVID-19 treatments among physicians and laypeople in the United States*. The data files are unaltered exports of the survey instruments that we administered to our participants. The dataset is described below.
 
 ## Codebook and data description
 
